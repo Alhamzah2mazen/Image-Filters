@@ -1,5 +1,5 @@
 Multi-Functional Computer Vision & Image Processing Toolbox
-University of Jordan | Computer Vision (Task 3)
+University of Jordan | Computer Vision Project
 
 A comprehensive MATLAB App Designer-based GUI for real-time image enhancement, spatial/frequency domain filtering, feature detection, and stereo vision analysis. This tool provides an interactive environment to visualize complex computer vision algorithms through a stacked-filter architecture.
 
@@ -52,10 +52,10 @@ Bash
 git clone https://github.com/Alhamzah2mazen/Image-Filters.git
 Open MATLAB and navigate to the project folder.
 
-Type Task3_2220165_exported in the Command Window or open the file in App Designer and click Run.
+Type image_filters in the Command Window or open the file in App Designer and click Run.
 
 📂 Project Structure
-Task3_2220165_exported.mlapp / .m: The core application logic and UI layout.
+image_filters.mlapp / .m: The core application logic and UI layout.
 
 .gitignore: Configured to exclude MATLAB autosaves (.asv) and large binary data.
 
